@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/PetShop/static/css/main.f855e6bc.css",
-    "main.js": "/PetShop/static/js/main.08055373.js",
+    "main.css": "/PetShop/static/css/main.6fa317c9.css",
+    "main.js": "/PetShop/static/js/main.4a9a97b4.js",
     "static/js/453.ae3339de.chunk.js": "/PetShop/static/js/453.ae3339de.chunk.js",
-    "static/media/logo.svg": "/PetShop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/groom.png": "/PetShop/static/media/groom.aa2192c626b44b0022ad.png",
+    "static/media/hotel.png": "/PetShop/static/media/hotel.3875210f6e9cbcfef8fe.png",
+    "static/media/cat.png": "/PetShop/static/media/cat.f58bd3a42ac5fd1fa60c.png",
+    "static/media/lizard.png": "/PetShop/static/media/lizard.6d4d4025359d33b21f77.png",
+    "static/media/dog.png": "/PetShop/static/media/dog.446fe484ea3a75355e02.png",
+    "static/media/boy.png": "/PetShop/static/media/boy.ef4e35c3f7a7c593c314.png",
+    "static/media/bird.png": "/PetShop/static/media/bird.9a6fb3b5526d88f63122.png",
     "index.html": "/PetShop/index.html",
-    "main.f855e6bc.css.map": "/PetShop/static/css/main.f855e6bc.css.map",
-    "main.08055373.js.map": "/PetShop/static/js/main.08055373.js.map",
+    "static/media/rightarrow.svg": "/PetShop/static/media/rightarrow.fb0989a54ebcb3c27c5bd8891fb576e3.svg",
+    "main.6fa317c9.css.map": "/PetShop/static/css/main.6fa317c9.css.map",
+    "main.4a9a97b4.js.map": "/PetShop/static/js/main.4a9a97b4.js.map",
     "453.ae3339de.chunk.js.map": "/PetShop/static/js/453.ae3339de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.08055373.js"
+    "static/css/main.6fa317c9.css",
+    "static/js/main.4a9a97b4.js"
   ]
 }
